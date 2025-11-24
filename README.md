@@ -1,6 +1,6 @@
 # RentCar
 
-Projekt strony internetowej wypożyczalni samochodów.
+Projekt strony internetowej wypożyczalni samochodów napisany w Nuxt.js.
 
 ## Instalacja
 
